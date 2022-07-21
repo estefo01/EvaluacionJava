@@ -15,7 +15,7 @@ Para realizar estas pruebas se debe tener instalado alguna API para consumir el 
 
 ## Como realizar las pruebas
 
-1) Se debe ejecutar el proyecto dentro del Eclipse.
+1) Se debe ejecutar el proyecto dentro del Eclipse. Para realizar esto, ver imagen de la siguiente url https://prnt.sc/i-ptCFR_NV4n
 2) Se debe abrir el PostMan donde ingresare la URL a consumir, estas son:
 
 - http://localhost:8080/guardarUsuario : Guardado de datos del Usuario en el formato indicado.
