@@ -22,4 +22,9 @@ Para realizar estas pruebas se debe tener instalado alguna API para consumir el 
 - http://localhost:8080/listarUsuarios : Lista todos los usuarios creados.
 - http://localhost:8080/listarXUsuario/1 : Lista por ID de usuario especifico, a modo de ejemplo se esta realizando la busqueda por el ID 1.
 
+## Documentación
+
+Para revisar la documentación del Servicio desarrollado, se debe ingregar al siguiente URL (es importante tener corriendo el proyecto).
+http://localhost:8080/swagger-ui.html#/
+
 Nota: El puerto por defecto es 8080, en caso de haber realizado alguna modificacion en el archivo de propiedades (application.properties), se debe colocar el puerto indicado.
