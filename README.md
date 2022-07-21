@@ -18,8 +18,8 @@ Para realizar estas pruebas se debe tener instalado alguna API para consumir el 
 1) Se debe ejecutar el proyecto dentro del Eclipse.
 2) Se debe abrir el PostMan donde ingresare la URL a consumir, estas son:
 
-http://localhost:8080/guardarUsuario : Guardado de datos del Usuario en el formato indicado.
-http://localhost:8080/listarUsuarios : Lista todos los usuarios creados.
-http://localhost:8080/listarXUsuario/1 : Lista por ID de usuario especifico, a modo de ejemplo se esta realizando la busqueda por el ID 1.
+- http://localhost:8080/guardarUsuario : Guardado de datos del Usuario en el formato indicado.
+- http://localhost:8080/listarUsuarios : Lista todos los usuarios creados.
+- http://localhost:8080/listarXUsuario/1 : Lista por ID de usuario especifico, a modo de ejemplo se esta realizando la busqueda por el ID 1.
 
 Nota: El puerto por defecto es 8080, en caso de haber realizado alguna modificacion en el archivo de propiedades (application.properties), se debe colocar el puerto indicado.
